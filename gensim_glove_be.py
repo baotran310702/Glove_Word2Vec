@@ -45,3 +45,4 @@ def helloWorld():
 if __name__ == '__main__':
     app.run(host=args.host, port=5000, debug=True)
 
+# python3 gensim_glove_be.py --host=192.168.100.183, so you can easily change the ip with the current global internet
