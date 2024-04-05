@@ -1,6 +1,6 @@
 gensim
 Flask
 jsonify
-CORS
+flask_cors
 argparse
 scipy==1.10.1
